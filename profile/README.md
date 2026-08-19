@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/nexum-banner.png" width="100%" alt="Nexum Club">
+<img src="./nexum-banner.png" width="100%" alt="Nexum Club">
 
 <br><br>
 
