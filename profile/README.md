@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile/nexum-banner.png" width="100%" alt="Nexum Club">
+<img src="https://raw.githubusercontent.com/NEXUMCLUB/.github/main/profile/nexum-banner.png?v=2" width="100%" alt="Nexum Club">
 
 <br><br>
 
@@ -18,7 +18,7 @@
 
 **Nexum Club** is the official technology club of **The Khaitan School**.
 
-We bring together students interested in technology, programming, design, AI, and everything in between. The club is a place to learn from each other, work on ideas, and get hands-on with technolo[...]
+We bring together students interested in technology, programming, design, AI, and everything in between. The club is a place to learn from each other, work on ideas, and get hands-on with technology o[...] 
 
 ---
 
