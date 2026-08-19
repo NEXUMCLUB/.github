@@ -1,12 +1,52 @@
-## Hi there 👋
+<div align="center">
 
-<!--
+<img src="./assets/nexum-banner.png" width="100%" alt="Nexum Club">
 
-**Here are some ideas to get you started:**
+<br><br>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# NEXUM CLUB
+
+### The Official Tech Club of The Khaitan School
+
+`BUILD • LEARN • COLLABORATE`
+
+</div>
+
+---
+
+## About
+
+**Nexum Club** is the official technology club of **The Khaitan School**.
+
+We bring together students interested in technology, programming, design, AI, and everything in between. The club is a place to learn from each other, work on ideas, and get hands-on with technology outside the classroom.
+
+---
+
+## What We Do
+
+* 💻 Learn and experiment with new technologies
+* 🧠 Explore AI, programming, and emerging tech
+* 🎨 Work on creative technology and design
+* 🤝 Collaborate with other students
+* 🏆 Take part in hackathons, competitions, and tech events
+* ⚡ Run workshops and sessions for the school community
+
+---
+
+## Our Community
+
+Nexum is built around students.
+
+Whether you're already experienced with technology or just getting started, the club is a place to **learn, make things, and work with others**.
+
+---
+
+<div align="center">
+
+### NEXUM CLUB
+
+**The Khaitan School**
+
+`EST. 2026`
+
+</div>
