@@ -18,7 +18,7 @@
 
 **Nexum Club** is the official technology club of **The Khaitan School**.
 
-We bring together students interested in technology, programming, design, AI, and everything in between. The club is a place to learn from each other, work on ideas, and get hands-on with technology o[...] 
+We bring together students interested in technology, programming, design, AI, and everything in between. The club is a place to learn from each other, work on ideas, and get hands-on with technology 
 
 ---
 
